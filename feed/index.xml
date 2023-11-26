@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Santoso School</title>
+	<atom:link href="https://okto09.github.io/Oktosantoso/feed/" rel="self" type="application/rss+xml" />
+	<link>https://okto09.github.io/Oktosantoso</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Nov 2023 12:47:32 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>FASILITAS</title>
+		<link>https://okto09.github.io/Oktosantoso/2023/11/26/fasilitas/</link>
+					<comments>https://okto09.github.io/Oktosantoso/2023/11/26/fasilitas/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 26 Nov 2023 12:47:32 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://okto09.github.io/Oktosantoso/?p=105</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://okto09.github.io/Oktosantoso/2023/11/26/fasilitas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JURUSAN</title>
+		<link>https://okto09.github.io/Oktosantoso/2023/11/25/halo-dunia/</link>
+					<comments>https://okto09.github.io/Oktosantoso/2023/11/25/halo-dunia/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2023 08:28:33 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://okto09.github.io/Oktosantoso/?p=1</guid>
+
+					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
+										<content:encoded><![CDATA[
+<p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://okto09.github.io/Oktosantoso/2023/11/25/halo-dunia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
